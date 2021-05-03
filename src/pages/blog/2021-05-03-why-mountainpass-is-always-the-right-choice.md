@@ -7,3 +7,7 @@ featuredpost: true
 featuredimage: https://s.gravatar.com/avatar/2e34da99175712ee62703c7e30d894c7?s=400
 ---
 ... which is why I choose MountainPass everytime. part2 tbc
+
+![](https://s.gravatar.com/avatar/2e34da99175712ee62703c7e30d894c7?s=400)
+
+Check out this guy!
